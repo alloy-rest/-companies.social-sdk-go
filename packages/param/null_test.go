@@ -2,7 +2,7 @@ package param_test
 
 import (
 	"encoding/json"
-	"github.com/stainless-sdks/companies.social-go/packages/param"
+	"github.com/alloy-rest/-companies.social-sdk-go/packages/param"
 	"testing"
 )
 
