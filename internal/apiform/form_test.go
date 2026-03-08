@@ -2,7 +2,7 @@ package apiform
 
 import (
 	"bytes"
-	"github.com/stainless-sdks/companies.social-go/packages/param"
+	"github.com/alloy-rest/-companies.social-sdk-go/packages/param"
 	"io"
 	"mime/multipart"
 	"strings"

@@ -2,7 +2,7 @@ package param
 
 import (
 	"encoding/json"
-	"github.com/stainless-sdks/companies.social-go/internal/encoding/json/sentinel"
+	"github.com/alloy-rest/-companies.social-sdk-go/internal/encoding/json/sentinel"
 	"reflect"
 )
 

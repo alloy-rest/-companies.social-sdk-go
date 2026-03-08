@@ -7,7 +7,7 @@ package apijson
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/stainless-sdks/companies.social-go/packages/param"
+	"github.com/alloy-rest/-companies.social-sdk-go/packages/param"
 	"reflect"
 	"strconv"
 	"sync"

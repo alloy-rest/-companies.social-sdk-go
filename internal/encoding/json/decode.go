@@ -14,7 +14,7 @@ import (
 	"encoding"
 	"encoding/base64"
 	"fmt"
-	"github.com/stainless-sdks/companies.social-go/internal/encoding/json/shims"
+	"github.com/alloy-rest/-companies.social-sdk-go/internal/encoding/json/shims"
 	"reflect"
 	"strconv"
 	"strings"

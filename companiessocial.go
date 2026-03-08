@@ -3,8 +3,8 @@
 package companiessocial
 
 import (
-	"github.com/stainless-sdks/companies.social-go/internal/apijson"
-	"github.com/stainless-sdks/companies.social-go/packages/respjson"
+	"github.com/alloy-rest/-companies.social-sdk-go/internal/apijson"
+	"github.com/alloy-rest/-companies.social-sdk-go/packages/respjson"
 )
 
 type LookupCompanyResponse struct {
