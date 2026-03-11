@@ -7,10 +7,10 @@ import (
 	"net/http"
 	"slices"
 
-	"github.com/alloy-rest/-companies.social-sdk-go/internal/apijson"
-	"github.com/alloy-rest/-companies.social-sdk-go/internal/requestconfig"
-	"github.com/alloy-rest/-companies.social-sdk-go/option"
-	"github.com/alloy-rest/-companies.social-sdk-go/packages/respjson"
+	"github.com/alloy-rest/companies.social-sdk-go/internal/apijson"
+	"github.com/alloy-rest/companies.social-sdk-go/internal/requestconfig"
+	"github.com/alloy-rest/companies.social-sdk-go/option"
+	"github.com/alloy-rest/companies.social-sdk-go/packages/respjson"
 )
 
 // HealthService contains methods and other services that help with interacting

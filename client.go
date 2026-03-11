@@ -11,8 +11,8 @@ import (
 	"os"
 	"slices"
 
-	"github.com/alloy-rest/-companies.social-sdk-go/internal/requestconfig"
-	"github.com/alloy-rest/-companies.social-sdk-go/option"
+	"github.com/alloy-rest/companies.social-sdk-go/internal/requestconfig"
+	"github.com/alloy-rest/companies.social-sdk-go/option"
 )
 
 // Client creates a struct with services and top level methods that help with

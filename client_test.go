@@ -10,9 +10,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/alloy-rest/-companies.social-sdk-go"
-	"github.com/alloy-rest/-companies.social-sdk-go/internal"
-	"github.com/alloy-rest/-companies.social-sdk-go/option"
+	"github.com/alloy-rest/companies.social-sdk-go"
+	"github.com/alloy-rest/companies.social-sdk-go/internal"
+	"github.com/alloy-rest/companies.social-sdk-go/option"
 )
 
 type closureTransport struct {
