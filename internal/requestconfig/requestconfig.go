@@ -18,10 +18,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/alloy-rest/-companies.social-sdk-go/internal"
-	"github.com/alloy-rest/-companies.social-sdk-go/internal/apierror"
-	"github.com/alloy-rest/-companies.social-sdk-go/internal/apiform"
-	"github.com/alloy-rest/-companies.social-sdk-go/internal/apiquery"
+	"github.com/alloy-rest/companies.social-sdk-go/internal"
+	"github.com/alloy-rest/companies.social-sdk-go/internal/apierror"
+	"github.com/alloy-rest/companies.social-sdk-go/internal/apiform"
+	"github.com/alloy-rest/companies.social-sdk-go/internal/apiquery"
 )
 
 func getDefaultHeaders() map[string]string {
